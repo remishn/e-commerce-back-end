@@ -4,6 +4,12 @@
   https://opensource.org/licenses/MIT
   # Description
   A back end for e-commerce website uses Express.js API, MySQL. The application able to connect to a database using Sequelize to create database. Once the server started the Sequelize models are synced to the MySQL database. The data will be displayed in Insomnia in GET, POST, PUT, and DELETE routes.
+
+  ## Links for video demo
+  [GET routes demo](https://drive.google.com/file/d/1YBYgw_5TBl2d76Ft5B11rTY3EGGxdI1f/view)
+
+  [POST, PUT, DELETE routes demo](https://drive.google.com/file/d/1ZUUw0oohY7eZKZupuMOqfbRjSPBa3b-T/view)
+
   
 
   Table of contents
